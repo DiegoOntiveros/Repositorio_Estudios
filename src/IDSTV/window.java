@@ -18,7 +18,7 @@ this.setVisible(true);
 		
 	 this.setResizable(true);
 	 this.setMaximumSize(new Dimension (50,50));
-	 this.setMinimumSize(new Dimension(50,50));
+	 this.setMinimumSize(new Dimension(550,50));
 		 this.setLocationRelativeTo(null);
 
 	}
