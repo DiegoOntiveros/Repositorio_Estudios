@@ -1,4 +1,4 @@
-package IDSTV;
+5package IDSTV;
 
 import java.awt.Dimension;
 
@@ -17,8 +17,8 @@ this.setVisible(true);
 	 this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
 	 this.setResizable(true);
-	 this.setMaximumSize(new Dimension (400,800));
-	 this.setMinimumSize(new Dimension(400,800));
+	 this.setMaximumSize(new Dimension (50,800));
+	 this.setMinimumSize(new Dimension(50,800));
 		 this.setLocationRelativeTo(null);
 
 	}
